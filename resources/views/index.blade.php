@@ -17,7 +17,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase animated bounceInDown">Welcome To</h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Sportainment Rabbani</h1>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Sportainment Rabbani 2</h1>
                         </div>
                     </div>
                 </div>
